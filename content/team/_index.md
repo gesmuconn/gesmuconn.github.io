@@ -1,5 +1,5 @@
 ---
-title: Posts
+title: Team
 cms_exclude: true
 
 # View.
