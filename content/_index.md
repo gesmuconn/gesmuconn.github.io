@@ -159,20 +159,20 @@ sections:
       phone: 888 888 88 88
       appointment_url: 'https://calendly.com'
       address:
-        street: 450 Serra Mall
-        city: Stanford
-        region: CA
+        street: 1376 Storrs Road, Unit 4087
+        city: Storrs
+        region: CT
         postcode: '94305'
         country: United States
         country_code: US
-      directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
+      directions: Wilfred B. Young Building, Room 220
       office_hours:
         - 'Monday 10:00 to 13:00'
         - 'Wednesday 09:00 to 10:00'
       # Choose a map provider in `params.yaml` to show a map from these coordinates
       coordinates:
-        latitude: '37.4275'
-        longitude: '-122.1697'  
+        latitude: '41.812316698945324,'  
+        longitude: '-72.24766543038287'  
       contact_links:
         - icon: twitter
           icon_pack: fab
