@@ -103,10 +103,9 @@ sections:
       filters:
         folders:
           - team
-       featured_only: true
     design:
-      columns: '1'
-      view: card
+      columns: '2'
+      view: compact
   - block: collection
     id: featured
     content:
