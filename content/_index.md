@@ -155,14 +155,14 @@ sections:
       text: |-
         Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi diam, venenatis ut magna et, vehicula efficitur enim.
       # Contact (add or remove contact options as necessary)
-      email: test@example.org
-      phone: 888 888 88 88
-      appointment_url: 'https://calendly.com'
+      email: wei.ren@uconn.edu
+      phone: ....
+      appointment_url: ''
       address:
         street: 1376 Storrs Road, Unit 4087
         city: Storrs
         region: CT
-        postcode: '94305'
+        postcode: '06268'
         country: United States
         country_code: US
       directions: Wilfred B. Young Building, Room 220
@@ -171,8 +171,8 @@ sections:
         - 'Wednesday 09:00 to 10:00'
       # Choose a map provider in `params.yaml` to show a map from these coordinates
       coordinates:
-        latitude: '41.812316698945324,'  
-        longitude: '-72.24766543038287'  
+        latitude: '41.81240466095904'
+        longitude: ' -72.24748304017102'  
       contact_links:
         - icon: twitter
           icon_pack: fab
