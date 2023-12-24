@@ -19,6 +19,12 @@ main:
   - name: Publications
     url: '#featured'
     weight: 50
+  - name: Join Us
+    url: '#Joinus'
+    weight: 60
+  - name: Tutorial
+    url: '#Tutorial'
+    weight: 60
   - name: Contact
     url: '#contact'
     weight: 60
