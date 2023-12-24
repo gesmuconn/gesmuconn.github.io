@@ -1,7 +1,7 @@
 ---
 # Leave the homepage title empty to use the site title
 title: ''
-date: 2022-10-24
+date: 2023-12-24
 type: landing
 
 sections:
@@ -97,7 +97,7 @@ sections:
       # For Showcase view, flip alternate rows?
       flip_alt_rows: false
   - block: collection
-    id: featured
+    id: team
     content:
       title: Lab members
       filters:
