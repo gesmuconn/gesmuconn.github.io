@@ -100,16 +100,12 @@ sections:
     id: team
     content:
       title: Lab members
-    text: |-
-        {{% callout note %}}
-        Quickly discover relevant content by [filtering publications](./team/).
-        {{% /callout %}}
       filters:
         folders:
           - team
-        exclude_featured: true
+       featured_only: true
     design:
-      columns: '2'
+      columns: '1'
       view: card
   - block: collection
     id: featured
